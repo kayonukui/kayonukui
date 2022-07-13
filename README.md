@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayonukui
-- 👀 I’m interested in Python language and Front-End languages (HTML, CSS, JavaScript).
-- 🌱 I’m currently learning Python and Front-End languages.
+- 👀 I’m interested in Python and SQL.
+- 🌱 I’m currently learning Python, Django (Python Framework) and SQL (PostgreSQL & MySQL).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 -     LinkedIn: https://www.linkedin.com/in/kayonukui/
